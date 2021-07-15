@@ -1,0 +1,45 @@
+.img{
+    width: 200px;
+    height: 400px;
+}
+.arrange{
+    display: flex;
+}
+body{
+    background-color: white;
+}
+h1{
+    color:yellowgreen;
+    font-style: italic;
+}
+h2{
+    color:yellowgreen;
+    font-style: oblique;
+    
+}
+.dropdown-menu{
+    margin-left: 20px;;
+}
+.container-fluid{
+    margin-top: 10px;
+}
+.container2{
+    font-style: oblique;
+    text-transform: capitalize;
+
+
+}
+.enclose{
+    display: flex;
+    justify-content: space-evenly;
+}
+.grace{
+    margin-right: 20px;
+    
+}
+.flexi{
+    display: flex;
+}
+.container{
+    padding-top: 40px;
+}
